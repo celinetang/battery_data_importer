@@ -1,5 +1,5 @@
 # Take Home Exercise
-At Voltaiq, a big portion of our job is being able to create and develop importers for various types of customer data. In this exercise, you will be tasked with creating a basic importer that allows you to import data files in various formats.
+At V***, a big portion of our job is being able to create and develop importers for various types of customer data. In this exercise, you will be tasked with creating a basic importer that allows you to import data files in various formats.
 
 1. Each file import should be able to be triggered with a single function call.
 2. For as many of the test files complete the following.
